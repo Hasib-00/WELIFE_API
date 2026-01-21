@@ -2,14 +2,14 @@
   "banners": [
     {
       "id": "ban1",
-      "imageUrl": "https://res.cloudinary.com/dhpfn4umb/image/upload/v1769010292/ofpgtwtuwggllbzgdqyb.jpg",
+      "imageUrl": "https://res.cloudinary.com/dhpfn4umb/image/upload/v1769013499/uugv2rpxu5zhq2kfwnkg.png",
       "title": "Night Sale Specials",
       "targetType": "collection",
       "targetId": "night"
     },
     {
       "id": "ban2",
-      "imageUrl": "https://res.cloudinary.com/dhpfn4umb/image/upload/v1769010292/ofpgtwtuwggllbzgdqyb.jpg",
+      "imageUrl": "https://res.cloudinary.com/dhpfn4umb/image/upload/v1769013632/qcydih8jydhpbuttctvj.jpg",
       "title": "Night Sale Specials",
       "targetType": "collection",
       "targetId": "night"
