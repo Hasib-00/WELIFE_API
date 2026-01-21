@@ -14,27 +14,15 @@
       "targetType": "collection",
       "targetId": "night"
     },
+    ,
     {
       "id": "ban3",
-      "imageUrl": "https://res.cloudinary.com/example/image/upload/v1/morning-style.jpg",
-      "title": "Morning Style Picks",
-      "targetType": "collection",
-      "targetId": "morning"
-    },
-    {
-      "id": "ban4",
-      "imageUrl": "https://res.cloudinary.com/dhpfn4umb/image/upload/v1769010292/ofpgtwtuwggllbzgdqyb.jpg",
-      "title": "Night Sale Specials",
-      "targetType": "collection",
-      "targetId": "night"
-    },
-    {
-      "id": "ban5",
       "imageUrl": "https://res.cloudinary.com/dhpfn4umb/image/upload/v1769010292/ofpgtwtuwggllbzgdqyb.jpg",
       "title": "Night Sale Specials",
       "targetType": "collection",
       "targetId": "night"
     }
+    
   ],
 
   "categories": [
