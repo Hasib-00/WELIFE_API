@@ -27,6 +27,13 @@
       "title": "Night Sale Specials",
       "targetType": "collection",
       "targetId": "night"
+    },
+    {
+      "id": "ban5",
+      "imageUrl": "https://res.cloudinary.com/dhpfn4umb/image/upload/v1769010292/ofpgtwtuwggllbzgdqyb.jpg",
+      "title": "Night Sale Specials",
+      "targetType": "collection",
+      "targetId": "night"
     }
   ],
 
